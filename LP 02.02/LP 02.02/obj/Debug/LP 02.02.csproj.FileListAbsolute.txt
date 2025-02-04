@@ -1,0 +1,7 @@
+C:\LP Top\LP-Topi-top\LP 02.02\LP 02.02\bin\Debug\LP 02.02.exe.config
+C:\LP Top\LP-Topi-top\LP 02.02\LP 02.02\bin\Debug\LP 02.02.exe
+C:\LP Top\LP-Topi-top\LP 02.02\LP 02.02\bin\Debug\LP 02.02.pdb
+C:\LP Top\LP-Topi-top\LP 02.02\LP 02.02\obj\Debug\LP 02.02.csproj.AssemblyReference.cache
+C:\LP Top\LP-Topi-top\LP 02.02\LP 02.02\obj\Debug\LP 02.02.csproj.CoreCompileInputs.cache
+C:\LP Top\LP-Topi-top\LP 02.02\LP 02.02\obj\Debug\LP 02.02.exe
+C:\LP Top\LP-Topi-top\LP 02.02\LP 02.02\obj\Debug\LP 02.02.pdb
