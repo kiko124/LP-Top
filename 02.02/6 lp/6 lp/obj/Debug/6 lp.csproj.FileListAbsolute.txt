@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\6 lp\6 lp\bin\Debug\6 lp.exe.config
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\6 lp\6 lp\bin\Debug\6 lp.exe
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\6 lp\6 lp\bin\Debug\6 lp.pdb
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\6 lp\6 lp\obj\Debug\6 lp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\6 lp\6 lp\obj\Debug\6 lp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\6 lp\6 lp\obj\Debug\6 lp.exe
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\6 lp\6 lp\obj\Debug\6 lp.pdb
