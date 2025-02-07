@@ -1,0 +1,7 @@
+C:\LP Top\02.02\4 задание\4 задание\bin\Debug\4 задание.exe.config
+C:\LP Top\02.02\4 задание\4 задание\bin\Debug\4 задание.exe
+C:\LP Top\02.02\4 задание\4 задание\bin\Debug\4 задание.pdb
+C:\LP Top\02.02\4 задание\4 задание\obj\Debug\4 задание.csproj.AssemblyReference.cache
+C:\LP Top\02.02\4 задание\4 задание\obj\Debug\4 задание.csproj.CoreCompileInputs.cache
+C:\LP Top\02.02\4 задание\4 задание\obj\Debug\4 задание.exe
+C:\LP Top\02.02\4 задание\4 задание\obj\Debug\4 задание.pdb
