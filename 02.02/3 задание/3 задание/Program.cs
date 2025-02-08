@@ -18,7 +18,7 @@ namespace _3_задание
             string c = Console.ReadLine();
             Console.WriteLine("Введите 4 число");
             string d = Console.ReadLine();
-            int num = int.Parse(a.ToString() + b.ToString() + c.ToString() + d.ToString());
+            int num = int.Parse(a + b + c + d);
             Console.WriteLine(num);
         }
     }
