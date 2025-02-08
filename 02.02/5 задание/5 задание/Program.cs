@@ -26,7 +26,7 @@ namespace _5_задание
             string input;
             do
             {
-                Console.WriteLine("Введите дату рождения в формате дд.ММ.гггг (день.месяц.год):");
+                Console.WriteLine("Введите дату дд.ММ.гггг (день.месяц.год):");
                 input = Console.ReadLine();
             }
             while (!DateTime.TryParseExact(input, "dd.MM.yyyy", null, DateTimeStyles.None, out dob));
