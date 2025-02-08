@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\7 задание\7 задание\obj\Debug\7 задание.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\7 задание\7 задание\obj\Debug\7 задание.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\7 задание\7 задание\bin\Debug\7 задание.exe.config
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\7 задание\7 задание\bin\Debug\7 задание.exe
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\7 задание\7 задание\bin\Debug\7 задание.pdb
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\7 задание\7 задание\obj\Debug\7 задание.exe
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\7 задание\7 задание\obj\Debug\7 задание.pdb
