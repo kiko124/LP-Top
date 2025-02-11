@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\LP-Top\\02.02\\6 lp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{894886F1-0753-426F-B8C8-DA6308FC22C8}|6 lp\\6 lp.csproj|c:\\users\\administrator\\documents\\github\\lp-top\\02.02\\6 lp\\6 lp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894886F1-0753-426F-B8C8-DA6308FC22C8}|6 lp\\6 lp.csproj|solutionrelative:6 lp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\LP-Top\\02.02\\6 lp\\6 lp\\Program.cs",
+              "RelativeDocumentMoniker": "6 lp\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\LP-Top\\02.02\\6 lp\\6 lp\\Program.cs",
+              "RelativeToolTip": "6 lp\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:53:24.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

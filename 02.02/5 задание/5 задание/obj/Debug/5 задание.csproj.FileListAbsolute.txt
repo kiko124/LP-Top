@@ -5,3 +5,10 @@ C:\LP Top\02.02\5 задание\5 задание\obj\Debug\5 задание.csp
 C:\LP Top\02.02\5 задание\5 задание\obj\Debug\5 задание.csproj.CoreCompileInputs.cache
 C:\LP Top\02.02\5 задание\5 задание\obj\Debug\5 задание.exe
 C:\LP Top\02.02\5 задание\5 задание\obj\Debug\5 задание.pdb
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\5 задание\5 задание\bin\Debug\5 задание.exe.config
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\5 задание\5 задание\bin\Debug\5 задание.exe
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\5 задание\5 задание\bin\Debug\5 задание.pdb
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\5 задание\5 задание\obj\Debug\5 задание.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\5 задание\5 задание\obj\Debug\5 задание.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\5 задание\5 задание\obj\Debug\5 задание.exe
+C:\Users\Administrator\Documents\GitHub\LP-Top\02.02\5 задание\5 задание\obj\Debug\5 задание.pdb
