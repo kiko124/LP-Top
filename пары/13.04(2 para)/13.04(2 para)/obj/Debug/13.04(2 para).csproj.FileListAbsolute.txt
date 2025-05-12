@@ -1,0 +1,7 @@
+C:\LP Top\пары\13.04(2 para)\13.04(2 para)\bin\Debug\13.04(2 para).exe.config
+C:\LP Top\пары\13.04(2 para)\13.04(2 para)\bin\Debug\13.04(2 para).exe
+C:\LP Top\пары\13.04(2 para)\13.04(2 para)\bin\Debug\13.04(2 para).pdb
+C:\LP Top\пары\13.04(2 para)\13.04(2 para)\obj\Debug\13.04(2 para).csproj.AssemblyReference.cache
+C:\LP Top\пары\13.04(2 para)\13.04(2 para)\obj\Debug\13.04(2 para).csproj.CoreCompileInputs.cache
+C:\LP Top\пары\13.04(2 para)\13.04(2 para)\obj\Debug\13.04(2 para).exe
+C:\LP Top\пары\13.04(2 para)\13.04(2 para)\obj\Debug\13.04(2 para).pdb
