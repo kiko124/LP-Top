@@ -1,0 +1,10 @@
+C:\LP Top\05.03\05.03\bin\Debug\05.03.exe.config
+C:\LP Top\05.03\05.03\bin\Debug\05.03.exe
+C:\LP Top\05.03\05.03\bin\Debug\05.03.pdb
+C:\LP Top\05.03\05.03\obj\Debug\05.03.csproj.AssemblyReference.cache
+C:\LP Top\05.03\05.03\obj\Debug\05.03.csproj.CoreCompileInputs.cache
+C:\LP Top\05.03\05.03\obj\Debug\05.03.exe
+C:\LP Top\05.03\05.03\obj\Debug\05.03.pdb
+C:\LP Top\05.03\05.03\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\LP Top\05.03\05.03\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\LP Top\05.03\05.03\obj\Debug\05.03.csproj.Up2Date

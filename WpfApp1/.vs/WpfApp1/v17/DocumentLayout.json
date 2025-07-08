@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LP Top\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|c:\\lp top\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|c:\\lp top\\wpfapp1\\wpfapp1\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|c:\\lp top\\wpfapp1\\wpfapp1\\models\\colormod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\colormod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|c:\\lp top\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|c:\\lp top\\wpfapp1\\wpfapp1\\viewmod\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmod\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|c:\\lp top\\wpfapp1\\wpfapp1\\viewmod\\mainviewmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmod\\mainviewmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|c:\\lp top\\wpfapp1\\wpfapp1\\viewmod\\savecolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmod\\savecolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|c:\\lp top\\wpfapp1\\wpfapp1\\viewmod\\relaycommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B544EE-8383-41A9-B75A-B19960561A2D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmod\\relaycommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\LP Top\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\LP Top\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T04:57:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\LP Top\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\LP Top\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:57:18.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveColorVM.cs",
+              "DocumentMoniker": "C:\\LP Top\\WpfApp1\\WpfApp1\\ViewMod\\SaveColorVM.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewMod\\SaveColorVM.cs",
+              "ToolTip": "C:\\LP Top\\WpfApp1\\WpfApp1\\ViewMod\\SaveColorVM.cs",
+              "RelativeToolTip": "WpfApp1\\ViewMod\\SaveColorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:00:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewMod.cs",
+              "DocumentMoniker": "C:\\LP Top\\WpfApp1\\WpfApp1\\ViewMod\\MainViewMod.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewMod\\MainViewMod.cs",
+              "ToolTip": "C:\\LP Top\\WpfApp1\\WpfApp1\\ViewMod\\MainViewMod.cs",
+              "RelativeToolTip": "WpfApp1\\ViewMod\\MainViewMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:59:49.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\LP Top\\WpfApp1\\WpfApp1\\ViewMod\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewMod\\RelayCommand.cs",
+              "ToolTip": "C:\\LP Top\\WpfApp1\\WpfApp1\\ViewMod\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp1\\ViewMod\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:59:29.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorMod.cs",
+              "DocumentMoniker": "C:\\LP Top\\WpfApp1\\WpfApp1\\Models\\ColorMod.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\ColorMod.cs",
+              "ToolTip": "C:\\LP Top\\WpfApp1\\WpfApp1\\Models\\ColorMod.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\ColorMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:59:04.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\LP Top\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\LP Top\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T04:57:28.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommandBase.cs",
+              "DocumentMoniker": "C:\\LP Top\\WpfApp1\\WpfApp1\\ViewMod\\RelayCommandBase.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewMod\\RelayCommandBase.cs",
+              "ToolTip": "C:\\LP Top\\WpfApp1\\WpfApp1\\ViewMod\\RelayCommandBase.cs",
+              "RelativeToolTip": "WpfApp1\\ViewMod\\RelayCommandBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:29:06.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
