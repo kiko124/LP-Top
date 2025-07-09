@@ -1,0 +1,7 @@
+C:\LP Top\30.4\30.4\bin\Debug\30.4.exe.config
+C:\LP Top\30.4\30.4\bin\Debug\30.4.exe
+C:\LP Top\30.4\30.4\bin\Debug\30.4.pdb
+C:\LP Top\30.4\30.4\obj\Debug\30.4.csproj.AssemblyReference.cache
+C:\LP Top\30.4\30.4\obj\Debug\30.4.csproj.CoreCompileInputs.cache
+C:\LP Top\30.4\30.4\obj\Debug\30.4.exe
+C:\LP Top\30.4\30.4\obj\Debug\30.4.pdb
