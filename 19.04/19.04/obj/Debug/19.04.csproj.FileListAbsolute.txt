@@ -1,0 +1,7 @@
+C:\LP Top\19.04\19.04\bin\Debug\19.04.exe.config
+C:\LP Top\19.04\19.04\bin\Debug\19.04.exe
+C:\LP Top\19.04\19.04\bin\Debug\19.04.pdb
+C:\LP Top\19.04\19.04\obj\Debug\19.04.csproj.AssemblyReference.cache
+C:\LP Top\19.04\19.04\obj\Debug\19.04.csproj.CoreCompileInputs.cache
+C:\LP Top\19.04\19.04\obj\Debug\19.04.exe
+C:\LP Top\19.04\19.04\obj\Debug\19.04.pdb
