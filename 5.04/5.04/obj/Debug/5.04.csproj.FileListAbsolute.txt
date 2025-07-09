@@ -1,0 +1,7 @@
+C:\LP Top\5.04\5.04\bin\Debug\5.04.exe.config
+C:\LP Top\5.04\5.04\bin\Debug\5.04.exe
+C:\LP Top\5.04\5.04\bin\Debug\5.04.pdb
+C:\LP Top\5.04\5.04\obj\Debug\5.04.csproj.AssemblyReference.cache
+C:\LP Top\5.04\5.04\obj\Debug\5.04.csproj.CoreCompileInputs.cache
+C:\LP Top\5.04\5.04\obj\Debug\5.04.exe
+C:\LP Top\5.04\5.04\obj\Debug\5.04.pdb
